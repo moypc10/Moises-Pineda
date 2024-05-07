@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moypc10&show_icons=true&locale=en" alt="moypc10" /></p>
 
 ### Contributions:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moypc10&" alt="moypc10" /></p>
+<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moypc10&" alt="moypc10" /></p></center>
 
 ### Snake Game Contributions:
 <div align="center">
