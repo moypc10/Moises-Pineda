@@ -1,8 +1,12 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Moisés+Pineda....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Moisés Pineda" />
 </h1>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+a+passionate+software+Engineer+from+Mexico;Nice+to+meet+you!🙌&center=true&size=30">
+  </a>
+</h2>
 
 <h3 align="center">A passionate software Engineer from Mexico</h3>
 
