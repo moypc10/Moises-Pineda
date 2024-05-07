@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moisés Pineda</h1>
 <h3 align="center">A passionate software Engineer from Mexico</h3>
 
-- 🌱 I’m currently learning **C++, Swift, & React**
+- 🌱 I’m currently learning **C++, Competitive Programming, & React**
 
 - 💬 Ask me about **C++**
 
