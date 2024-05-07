@@ -32,3 +32,9 @@
 
 ### Contributions:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moypc10&" alt="moypc10" /></p>
+
+### Snake Game Contributions:
+<div align="center">
+  <img  src="moy.svg"
+       alt="snake" />
+</div>
