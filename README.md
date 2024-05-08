@@ -18,14 +18,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linkedin href="https://www.linkedin.com/in/moypc10" />
-<img src="https://skillicons.dev/icons?i=instagram" href="https://www.instagram.com/moypc10" />
-<img src="https://skillicons.dev/icons?i=gmail" href="mailto:moypineda10@gmail.com" /></br>
+    <a href="https://www.linkedin.com/in/moypc10" style="text-decoration: none !important;">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://www.instagram.com/moypc10" style="text-decoration: none !important;">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+    <a href="mailto:moypineda10@gmail.com" style="text-decoration: none !important;">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,azure,react,flutter,spring,androidstudio,firebase,mysql,postman,git,github,gmail,ai,php" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,azure,react,flutter,spring,androidstudio,firebase,mysql,postman,git,github,linux,ai,php" />
     <img src="https://skillicons.dev/icons?i=html,css,python,javascript,cpp,java,nextjs,npm,nodejs,md,discord,figma,kotlin,matlab,swift" /></br>
   
 </div>
