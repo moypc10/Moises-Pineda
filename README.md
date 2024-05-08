@@ -39,7 +39,7 @@
 ### GitHub Throphies:
 <p align="center">
   <a href="https://github.com/moypc10/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zhenye-na&column=7" alt="trophy" />
   </a>
 </p>
 
