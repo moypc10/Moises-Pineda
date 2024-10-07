@@ -26,7 +26,7 @@
     <a href="https://www.instagram.com/moypc10" style="text-decoration: none !important;">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="mailto:moypineda10@gmail.com" style="text-decoration: none !important;">
+    <a href="mailto:moiseshpineda@gmail.com" style="text-decoration: none !important;">
         <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
